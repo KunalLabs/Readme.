@@ -52,12 +52,12 @@ I'm Kunal, a full-stack developer from Pune who is passionate about web developm
 
 ### 🐍 GitHub Contribution Graph
 
+### 🐍 GitHub Contribution Graph
+
 <div align="center">
- ### 🐍 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg)
-
+  <img src="https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg" alt="GitHub Contribution Graph"/>
 </div>
+
 
 ---
 
