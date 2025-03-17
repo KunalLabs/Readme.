@@ -1,84 +1,49 @@
-##  Git
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Git is a distributed version control system (VCS) designed to track changes in source code during software development. It allows multiple developers to collaborate on projects efficiently by managing revisions, facilitating team coordination, and enabling version control for files. Git tracks changes in a repository, stores these changes with metadata like authorship and timestamps, and supports branching and merging to facilitate parallel development efforts. It's widely used in software development to manage codebase versions and ensure project integrity across teams.
+###
 
-- git  --version
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## Git Hub
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-GitHub is a cloud-based platform that uses Git for version control and collaboration. It allows developers to store, manage, and share their code repositories online. GitHub provides features like:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-* Remote Repository Hosting: Store and access Git repositories online.
--Collaboration Tools: Supports team collaboration with pull requests, code reviews, and discussions.
--Branching and Merging: Developers can work on different features or fixes simultaneously.
--Issue Tracking: Manage bugs and feature requests efficiently.
--CI/CD Integration: Automate testing and deployment with GitHub Actions.
--Security & Access Control: Control who can view or edit your repositories.
+###
 
-### Remote to local Config
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
- ## SETUP
+###
 
- Configuring user information used across all local repositories
- - git config --global user.name “[firstname lastname]”
+<br clear="both">
 
- set a name that is identifiable for credit when review version history
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
- - git config --global user.email “[valid-email]”
-set an email address that will be associated with each history marker
-
- - git config  --list  
-It show list configuration
-
-- git clone <url>
-- git status
-- git add <filename>  or git add .
-- git  commit -m "commit msg"
-- git push origin main
-
-### Local to Remote
-
-- git init 
-- git remote add origin  <link>
-- git remote -v
-- git branch
-- git  checkout <branch name>
-- git branch -d <branch name>
-- git branch -M main
-- git push -u origin main  (upstream)
-
-### Merging code
-
-- git diff <branch name >  
-- git merge <branch name>
-
-
-main
-
-feature
-
-### create pull request
-
-git pull origin main
-
-## Undoing changes
-
-- git reset <filename>
-- git reset 
-
-* committed  changes
-
-- git  reset HEAD~1
-
-git log-history of commit
--  git reset --hard  [hashvalue]
-
-
-## Resolve merge conflict
-
-- git merge main
-- git merge feture
-
-git push
+###
