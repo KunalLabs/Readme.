@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Kunal, and I'm a Full-Stack Developer from Pune.</h2>
-👤 Bio
-I'm Kunal, a Full-Stack Developer from Pune, passionate about Web Development and 3D Animation. I specialize in scalable applications using modern technologies and love creating interactive web experiences. Beyond coding, I explore Blender for realistic 3D modeling and animation. Always open to collaborations, open-source contributions, and innovative projects. 🚀
+
+I'm Kunal, a full-stack developer from Pune who is passionate about web development and 3D animation. I specialize in scalable applications using modern technologies and love creating interactive web experiences. Beyond coding, I explore Blender for realistic 3D modeling and animation. Always open to collaborations, open-source contributions, and innovative projects. 🚀
 
 ---
 
