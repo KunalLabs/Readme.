@@ -59,8 +59,8 @@
 
 ### 📩 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunallabs) 
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:kunal@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-chaudhari-276311249) 
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:kunalchaudhari1200@gmail.com)
 
 ---
 
