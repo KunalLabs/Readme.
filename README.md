@@ -48,8 +48,9 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hibernate.svg" height="40" alt="Hibernate"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jdbc.svg" height="40" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-blue?style=for-the-badge&logo=java" height="28" alt="JDBC"/>
 </div>
+
 
 
 #### 🔧 Tools & OS
