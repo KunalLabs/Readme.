@@ -83,12 +83,9 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 
 ---
 
-### 🐍 GitHub Contribution Graph
+### 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg" alt="GitHub Contribution Graph"/>
-</div>
-
+![GitHub Snake](https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg)
 
 
 
