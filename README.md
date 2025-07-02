@@ -89,7 +89,8 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 
 ### 🐍 Contribution Graph
 
-![GitHub Snake](https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/KunalLabs/Readme/output/snake.svg)
+
 
 
 
