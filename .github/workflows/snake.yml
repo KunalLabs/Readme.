@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Enables manual trigger
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,11 +19,12 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Deploy SVG to output branch
+      - name: Deploy Snake to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
+          clean: true
+          single-commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
