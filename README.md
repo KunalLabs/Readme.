@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kunal — a Full-Stack Developer from Pune.</h2>
+<h2 align="center">Hi 👋! I'm Kunal — a Full-Stack Developer</h2>
 
 I'm a curious and creative full-stack developer who enjoys building things for the web — from clean, responsive UIs to powerful backends. I’m passionate about turning ideas into reality through code, and I also love bringing 3D scenes to life using Blender.
 
