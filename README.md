@@ -21,7 +21,7 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunalLabs&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=KunalLabs&theme=dracula" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalLabs&theme=dark" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalLabs&layout=compact&theme=dark" height="150" alt="Top Languages"/>
 </div>
 
