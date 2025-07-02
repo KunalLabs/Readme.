@@ -1,15 +1,18 @@
 <h2 align="left">Hi 👋! I'm Kunal — a Full-Stack Developer from Pune.</h2>
 
-I'm a passionate Full-Stack Developer with a love for web development and 3D animation. I specialize in building scalable applications using modern technologies and enjoy crafting interactive, user-focused web experiences. When I’m not coding, I dive into Blender to create realistic 3D animations and environments. I'm always open to collaboration, open-source contributions, and innovative projects. 🚀
+I'm a curious and creative full-stack developer who enjoys building things for the web — from clean, responsive UIs to powerful backends. I’m passionate about turning ideas into reality through code, and I also love bringing 3D scenes to life using Blender.
+
+When I’m not coding, you’ll probably find me learning new tech, experimenting with Linux, or crafting a 3D animation project. I enjoy working with people, learning from others, and collaborating on exciting projects. 🚀
 
 ---
 
 ### 🔥 About Me
 
-- 💻 Passionate about **Web Development** and **3D Animation**
-- 🚀 Proficient in **JavaScript, React, Node.js, Python, SQL, PHP**
-- 🎨 Actively learning and creating with **Blender**
-- 🤝 Open to working on **Web3, startups, and open-source projects**
+- 💻 I enjoy building both **Web Applications** and **3D Animations**
+- 🚀 Tech stack includes **JavaScript, React, Node.js, Python, SQL**
+- 🎨 Actively learning and creating with **Blender** for 3D animation
+- 🐧 Comfortable working in **Linux environments**
+- 🤝 Always open to collaborating on **startups, Web3 ideas, or open-source projects**
 
 ---
 
@@ -31,21 +34,23 @@ I'm a passionate Full-Stack Developer with a love for web development and 3D ani
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" height="40" alt="GSAP"/>
 </div>
+
 
 #### ⚙️ Backend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
-#### 🔧 Tools & Version Control
+#### 🔧 Tools & OS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </div>
 
 #### 🎨 3D Design & Animation
@@ -58,17 +63,17 @@ I'm a passionate Full-Stack Developer with a love for web development and 3D ani
 ### 💡 Featured Projects
 
 - 🚀 **PG Booking Website**  
-  Built the frontend using **HTML, CSS, JavaScript** to streamline room listing and booking.
+  A clean and responsive room booking website built with **HTML, CSS, and JavaScript**.
 
 - 🎮 **3D Lamborghini Animation**  
-  Created a cinematic 3D animation of a Lamborghini using **Blender**, including headlight sequences and fire exhaust effects.
+  Created a cinematic car animation using **Blender**, with engine rev, headlights, and fire exhaust effect.
 
-- 🤖 **Financial Data Chatbot**  
-  Developed a chatbot to interpret and analyze **financial reports** directly from structured HTML.
+- 🤖 **Financial Report Chatbot**  
+  A chatbot that extracts and analyzes key insights from **HTML-based financial data**.
 
 ---
 
-### 📩 Connect with Me
+### 📩 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-chaudhari-276311249) 
 [![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:kunalchaudhari1200@gmail.com)
@@ -80,8 +85,6 @@ I'm a passionate Full-Stack Developer with a love for web development and 3D ani
 <div align="center">
   <img src="https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg" alt="GitHub Contribution Graph"/>
 </div>
-
----
 
 
 
