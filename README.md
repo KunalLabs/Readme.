@@ -16,29 +16,28 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KunalLabs&show_icons=true&theme=dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalLabs&theme=dark&hide_border=false" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalLabs&layout=compact&theme=dracula" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalLabs&theme=dark" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalLabs&layout=compact&theme=dark" height="150" alt="Top Languages"/>
 </div>
+
 
 ---
 
 ### 🚀 Technical Skills
-
-#### 🌐 Frontend Development
 #### 🌐 Frontend Development
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" height="40" alt="GSAP"/>
 </div>
-
 
 
 #### ⚙️ Backend Development
@@ -87,6 +86,7 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 <div align="center">
   <img src="https://raw.githubusercontent.com/KunalLabs/KunalLabs/output/snake.svg" alt="GitHub Contribution Graph"/>
 </div>
+
 
 
 
