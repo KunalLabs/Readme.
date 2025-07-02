@@ -9,14 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: KunalLabs
           outputs: |
             dist/snake.svg
 
-      - name: Deploy to output branch
+      - name: Deploy Snake SVG to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
