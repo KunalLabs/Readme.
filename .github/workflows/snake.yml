@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # Run daily at midnight
   workflow_dispatch:
   push:
     branches:
@@ -12,19 +12,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: KunalLabs
           outputs: |
             dist/snake.svg
 
-      - name: Deploy Snake to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
-          clean: true
-          single-commit: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+
