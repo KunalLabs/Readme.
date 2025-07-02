@@ -31,13 +31,14 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 ### 🚀 Technical Skills
 #### 🌐 Frontend Development
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
-  <img src="https://api.iconify.design/logos:gsap.svg" height="40" alt="GSAP"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" height="40" alt="GSAP"/>
 </div>
+
 
 
 
