@@ -21,7 +21,7 @@ jobs:
         with:
           publish_branch: output
           publish_dir: ./dist
-          external_repository: KunalLabs/Readme  # ✅ Replace 'Readme' with the correct repo name
+          external_repository: KunalLabs/Readme  
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force_orphan: true
 
