@@ -12,7 +12,7 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
 - 🚀 Tech stack includes **JavaScript, React, Node.js, Python, SQL**
 - 🎨 Actively learning and creating with **Blender** for 3D animation
 - 🐧 Comfortable working in **Linux environments**
-- 🤝 Always open to collaborating on **startups, Web3 ideas, or open-source projects**
+- 🤝 Always open to collaborating on **startups, or open-source projects**
 
 ---
 
@@ -36,8 +36,9 @@ When I’m not coding, you’ll probably find me learning new tech, experimentin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" height="40" alt="GSAP"/>
+  <img src="https://api.iconify.design/logos:gsap.svg" height="40" alt="GSAP"/>
 </div>
+
 
 
 #### ⚙️ Backend Development
