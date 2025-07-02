@@ -16,10 +16,11 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Deploy Snake SVG to Output Branch
+      - name: Deploy Snake SVG to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
+          personal_token: ${{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 }}
           publish_dir: ./dist
+          publish_branch: output
           force_orphan: true
+
